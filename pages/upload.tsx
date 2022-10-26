@@ -114,7 +114,7 @@ const Upload = () => {
                         <br />
                         Less than 2GB
                       </p>
-                      <p className="bg-[#F51997] text-center mt-10 rounded text-white text-md font-medium p-2 w-52 outline-none">
+                      <p className="bg-[#0466C8] text-center mt-10 rounded text-white text-md font-medium p-2 w-52 outline-none">
                         Select File
                       </p>
                     </div>
@@ -171,7 +171,7 @@ const Upload = () => {
             <button
               onClick={handlePost}
               type="button"
-              className="bg-[#F51997] text-white text-md font-medium p-2 rounded w-28 lg:w-44 outline-none"
+              className="bg-[#0466C8] text-white text-md font-medium p-2 rounded w-28 lg:w-44 outline-none"
             >
               Post
             </button>
