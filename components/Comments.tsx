@@ -56,7 +56,7 @@ const Comments = ({
                           <div>
                             <p className="flex gap-1 items-center text-md font-bold text-primary lowercase">
                               {user.userName}
-                              {userProfile.userName === 'Adem Koca' && (
+                              {userProfile.userName === 'adem' && (
                                 <GoVerified className="text-blue-400" />
                               )}
                             </p>

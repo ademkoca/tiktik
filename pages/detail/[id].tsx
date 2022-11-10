@@ -118,7 +118,7 @@ const Detail = ({ postDetails }: IProps) => {
                   <Image
                     width={62}
                     height={62}
-                    className="rounded-fill"
+                    className="rounded-full"
                     src={post.postedBy.image}
                     alt="profile photo"
                     layout="responsive"
